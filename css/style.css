@@ -48,6 +48,12 @@ a.tears{
     transform: rotate(20deg) translateX(8px) translateY(20px);
 
 }
+
+a.smoke{
+    opacity: 0.3;
+    font-size: 80%;
+    top: 15px;
+}
 span#mountains{
     text-transform: uppercase;
     font-size: 130%;
@@ -67,11 +73,6 @@ span#ghost{
     opacity: 0.4;
 }
 
-span#smoke{
-    opacity: 0.3;
-    font-size: 80%;
-    top: 15px;
-}
 span#dead{
     position: absolute;
     transform: rotate(20deg) translateY(20px) translateX(5px);
@@ -86,8 +87,4 @@ span#red{
     font-family: cursive;
     color: red;
 
-}
-
-span#ascend{
-    transform:rotate(-50deg);
 }
