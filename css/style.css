@@ -33,7 +33,7 @@ p{
     position: absolute;
 }
 .title a.grief{
-    color:darkslategray;
+    color:grey;
     transform: translateX(5px) translateY(-5px);
     font-size: 115%;
 }
@@ -53,6 +53,7 @@ a.smoke{
     opacity: 0.3;
     font-size: 80%;
     top: 15px;
+    color:darkslategray;
 }
 span#mountains{
     text-transform: uppercase;
