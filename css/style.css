@@ -40,7 +40,7 @@ p{
 a.dead-link:hover{
     opacity: 0;
 }
-.tears{
+a.tears{
     color:cadetblue;
 
 }
