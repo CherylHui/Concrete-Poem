@@ -32,18 +32,9 @@ p{
 .title a{
     position: absolute;
 }
-.title a.grie{
+.title a.grief{
     color:grey;
     text-align-last: auto;
-    font-size: 35px;
-
-}
-.title a.f{
-    color:grey;
-    font-size: 37px;
-    text-align-last: auto;
-    right: 170px;
-
 }
 
 
@@ -52,7 +43,7 @@ a.dead-link:hover{
 }
 
 span#mountains{
-    font-size: large;
+    font-size: xx-large;
 
 }
 
