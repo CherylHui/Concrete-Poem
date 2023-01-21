@@ -38,9 +38,10 @@ p{
 
 }
 .title a.f{
-    color:grey
+    color:grey;
     font-size: 37px;
-    top: -20px
+    top: -20px;
+    right: 50px;
 
 }
 
@@ -50,7 +51,7 @@ a.dead-link:hover{
 }
 
 span#tears{
-    color:cadetblue
+    color:cadetblue;
     rotate: 15 deg;
 }
 
