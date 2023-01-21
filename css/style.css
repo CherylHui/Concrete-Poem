@@ -52,7 +52,7 @@ a.tears{
 a.smoke{
     opacity: 0.3;
     font-size: 80%;
-    transform: translateY(-15px);
+    transform: translateY(-100px);
     color:darkslategray;
 }
 span#mountains{
