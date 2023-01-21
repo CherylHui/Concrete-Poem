@@ -34,6 +34,7 @@ p{
 }
 .title a.grief{
     color:grey;
+    transform: translateX(10px);
     font-size: 115%;
 }
 
@@ -44,7 +45,7 @@ a.dead-link:hover{
 a.tears{
     color:cadetblue;
     position: absolute;
-    transform: rotate(20deg) translateY(-200px);
+    transform: rotate(20deg) translateY(20px);
 
 }
 span#mountains{
@@ -73,7 +74,7 @@ span#smoke{
 }
 span#dead{
     position: absolute;
-    transform: rotate(30deg) translateY(-10px);
+    transform: rotate(30deg) translateY(20px);
 }
 
 span#little{
