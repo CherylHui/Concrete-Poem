@@ -32,10 +32,17 @@ p{
 .title a{
     position: absolute;
 }
-.title a.forking{
-    left: 66%;
+.title a.grie{
+    left: 50%;
     top: -20px;
-    rotate: -18deg;
+    scale: 1.2;
+
+}
+.title a.f{
+    left: 50%;
+    top: -100px;
+    scale: 1.7;
+
 }
 .title a.paths{
     left: 78%;
