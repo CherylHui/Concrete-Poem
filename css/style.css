@@ -33,22 +33,25 @@ p{
     position: absolute;
 }
 .title a.grie{
-    color:grey
-    scale: 1.2;
+    color:grey;
+    font-size: 35px;
 
 }
 .title a.f{
     color:grey
-    scale: 1.7;
+    font-size: 37px;
+    top: -20px
 
 }
-.title a.tears{
-    color:cadetblue
-    rotate: 15 deg;
-}
+
 
 a.dead-link:hover{
     opacity: 0;
+}
+
+span#tears{
+    color:cadetblue
+    rotate: 15 deg;
 }
 
 span#ghost{
