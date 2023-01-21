@@ -63,3 +63,12 @@ span#tears{
 span#ghost{
     opacity: 0.4;
 }
+
+span#smoke{
+    opacity: 0.3;
+    scale: 0.7;
+}
+span#dead{
+    transform: rotate(45);
+
+}
