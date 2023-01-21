@@ -42,14 +42,14 @@ a.dead-link:hover{
 }
 a.tears{
     color:cadetblue;
-    position: absolute;
+    position: relative;
     transform: rotate(30deg);
 
 }
 span#mountains{
     text-transform: uppercase;
     font-size: 130%;
-    position: absolute;
+    position: relative;
     transform: rotate(-30deg);
     top: 20px;
 
@@ -70,12 +70,10 @@ span#ghost{
 span#smoke{
     opacity: 0.3;
     font-size: 80%;
-    top: -30px;
-    position: absolute;
     top: -5px;
 }
 span#dead{
-    position: absolute;
+    position: relative;
     transform: rotate(66deg);
     top: -30px;
 }
