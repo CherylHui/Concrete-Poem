@@ -72,5 +72,14 @@ span#smoke{
 span#dead{
     
     rotate: 66;
+}
+
+span#little{
+    font-style: italic;
+    font-size:50%;
+
+}
+span#red{
+    color: red;
 
 }
