@@ -34,14 +34,14 @@ p{
 }
 .title a.grie{
     color:grey;
-    text-align: left;
+    text-align-last: auto;
     font-size: 35px;
 
 }
 .title a.f{
     color:grey;
     font-size: 37px;
-    text-align: left;
+    text-align-last: auto;
     right: 170px;
 
 }
@@ -50,6 +50,12 @@ p{
 a.dead-link:hover{
     opacity: 0;
 }
+
+span#mountains{
+    font-size: large;
+
+}
+
 span#water{
     color:darkblue;
 
@@ -60,7 +66,7 @@ span#blue{
 
 span#tears{
     color:cadetblue;
-    rotate: 15 deg;
+
 }
 
 span#ghost{
