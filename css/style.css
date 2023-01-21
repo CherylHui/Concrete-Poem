@@ -44,6 +44,7 @@ a.tears{
     color:cadetblue;
     position: absolute;
     transform: rotate(30deg);
+    transform: translateY(-10px);
 
 }
 span#mountains{
@@ -51,7 +52,7 @@ span#mountains{
     font-size: 130%;
     position: absolute;
     transform: rotate(-30deg);
-    top: -20px;
+    top: -120px;
 
 }
 
@@ -70,7 +71,7 @@ span#ghost{
 span#smoke{
     opacity: 0.3;
     font-size: 80%;
-    top: 5px;
+    top: 15px;
 }
 span#dead{
     position: absolute;
