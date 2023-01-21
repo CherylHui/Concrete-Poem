@@ -33,14 +33,13 @@ p{
     position: absolute;
 }
 .title a.grie{
-    left: 50%;
-    top: -20px;
+    color: grey
     scale: 1.2;
 
 }
 .title a.f{
-    left: 50%;
-    top: -100px;
+    color: grey
+    top: -20px;
     scale: 1.7;
 
 }
