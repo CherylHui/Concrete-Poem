@@ -43,14 +43,13 @@ a.dead-link:hover{
 a.tears{
     color:cadetblue;
     position: absolute;
-    transform: rotate(30deg) translateY(-10px);
+    transform: rotate(30deg) translateY(-30px);
 
 }
 span#mountains{
     text-transform: uppercase;
     font-size: 130%;
     position: absolute;
-    transform: rotate(-30deg) translateY(-10px);
 
 }
 
@@ -73,8 +72,7 @@ span#smoke{
 }
 span#dead{
     position: absolute;
-    transform: rotate(66deg);
-    top: -10px;
+    transform: rotate(66deg) translateY(-10px);
 }
 
 span#little{
