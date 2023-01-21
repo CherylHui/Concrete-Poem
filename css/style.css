@@ -44,7 +44,7 @@ a.dead-link:hover{
 a.tears{
     color:cadetblue;
     position: absolute;
-    transform: rotate(20deg) translateY(-80px);
+    transform: rotate(20deg) translateY(-200px);
 
 }
 span#mountains{
@@ -73,7 +73,7 @@ span#smoke{
 }
 span#dead{
     position: absolute;
-    transform: rotate(66deg) translateY(-10px);
+    transform: rotate(30deg) translateY(-10px);
 }
 
 span#little{
