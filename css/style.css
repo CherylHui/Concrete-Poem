@@ -42,6 +42,7 @@ a.dead-link:hover{
 }
 a.tears{
     color:cadetblue;
+    transform: rotate(90deg);
 
 }
 span#mountains{
