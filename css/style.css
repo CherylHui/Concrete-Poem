@@ -42,6 +42,7 @@ a.dead-link:hover{
 }
 a.tears{
     color:cadetblue;
+    position: absolute;
     transform: rotate(90deg);
 
 }
@@ -68,7 +69,8 @@ span#smoke{
     font-size: 80%;
 }
 span#dead{
-    transform:rotate(66deg);
+    position: absolute;
+    transform: rotate(66deg);
 }
 
 span#little{
