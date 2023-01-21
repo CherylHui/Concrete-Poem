@@ -40,7 +40,10 @@ p{
 a.dead-link:hover{
     opacity: 0;
 }
+.tears{
+    color:cadetblue;
 
+}
 span#mountains{
     text-transform: uppercase;
     font-size: 130%;
@@ -55,10 +58,6 @@ span#blue{
     color:blue;
 }
 
-span#tears{
-    color:cadetblue;
-}
-
 span#ghost{
     opacity: 0.4;
 }
@@ -68,7 +67,6 @@ span#smoke{
     font-size: 80%;
 }
 span#dead{
-    transform-origin: 0 0;
     transform:rotate(66deg);
 }
 
@@ -84,6 +82,5 @@ span#red{
 }
 
 span#ascend{
-    transform-origin: 0 0;
     transform:rotate(-50deg);
 }
