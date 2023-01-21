@@ -34,7 +34,6 @@ p{
 }
 .title a.grief{
     color:grey;
-    text-align-last: auto;
 }
 
 
@@ -70,8 +69,7 @@ span#smoke{
     font-size: 80%;
 }
 span#dead{
-    
-    rotate: 66;
+    transform:rotate(66deg);
 }
 
 span#little{
