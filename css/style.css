@@ -42,10 +42,9 @@ p{
     scale: 1.7;
 
 }
-.title a.paths{
-    left: 78%;
-    top: 30px;
-    rotate: 22deg;
+.title a.tears{
+    color:cadetblue
+    rotate: 15 deg;
 }
 
 a.dead-link:hover{
